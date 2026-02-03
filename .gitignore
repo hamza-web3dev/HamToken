@@ -1,0 +1,15 @@
+# Compiler files
+cache/
+out/
+broadcast/
+
+# Docs
+docs/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Dotenv file
+.env
